@@ -5,7 +5,7 @@
 
 In the digital age, where information reigns supreme, the significance of cybersecurity cannot be overstated. With the increasing reliance on technology, businesses, governments, and individuals find themselves more 
 vulnerable to cyber threats than ever before. In the midst of this digital frontier, a guiding light emerges in the form of the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). 
-This groundbreaking framework provides a comprehensive and adaptable approach to safeguarding against cyber threats. Join us as we explore the unique and captivating world of cybersecurity frameworks and delve into 
+This groundbreaking framework provides a comprehensive and adaptable approach to safeguarding against cyber threats. Join me as we explore the unique and captivating world of cybersecurity frameworks and delve into 
 the core essence of the NIST CSF.
 
 ### A World Under Siege
