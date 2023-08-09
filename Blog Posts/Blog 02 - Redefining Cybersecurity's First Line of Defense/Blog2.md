@@ -49,20 +49,20 @@ remember that our potential to protect the digital realm is vast, and together, 
 
 - [Click Here](https://lumu.io/blog/7-habits-effective-cybersecurity-operators/) *Lumu Technologies: 7 Habits of Highly Effective Cybersecurity Operators (2021)*
 
-- [Click Here]() **
+- [Click Here](https://www.schneier.com/wp-content/uploads/2015/08/paper-psychology-of-security.pdf) *The Psychology of Security by Bruce Schneier (2008)*
 
-- [Click Here]() **
+- [Click Here](https://www.proofpoint.com/us/blog/email-and-cloud-threats/2022-human-factor-report-explores-year-headline-making-attacks) *Proofpoin's Human Factor Report (2022)*
 
-- [Click Here]() **
+- [Click Here](https://security.it.iastate.edu/threats/awareness/sites) *Iowa State University: IT Security*
 
-- [Click Here]() **
+- [Click Here](https://www.cisa.gov/) *Cybersecurity and Infrastructure Security Agency (CISA)*
 
-- [Click Here]() **
+- [Click Here](https://www.ncsc.gov.uk/collection/board-toolkit/developing-a-positive-cyber-security-culture#:~:text=Security%20culture%20refers%20to%20the,and%20leadership%20of%20your%20organisation.) *The National Cyber Security Centre (NCSC)*
 
-- [Click Here]() **
+- [Click Here](https://business.bt.com/why-choose-bt/insights/cyber-security/human-firewall-against-cyberattacks/) *BT Business: What is a human firewall and how can it help my business? (2022)*
 
-- [Click Here]() **
+- [Click Here](https://cybeready.com/ultimate-guide-to-human-firewalls) *CyberReady: Ultimate Guide to Human Firewalls (2022)*
 
-- [Click Here]() **
+- [Click Here](https://www.electric.ai/blog/human-firewall) *Electric: What is a Haman Firewall? (2022)*
 
-- [Click Here]() **
+- [Click Here](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-build-a-culture-cybersecurity) *MIT Management Sloan School (MITSloan) [2022]*
