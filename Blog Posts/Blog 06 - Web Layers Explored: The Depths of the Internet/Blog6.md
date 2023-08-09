@@ -57,11 +57,11 @@ As our journey comes to a close, one overarching theme emerges, the internet is 
 
 #### Resources:
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.w3.org/) *World Wide Web (W3C)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.acm.org/) *Association for Computing Machinery*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.cisecurity.org/insights/spotlight/cybersecurity-spotlight-the-surface-web-dark-web-and-deep-web) *Center for Internet Security (CIS): The Surface Web, Dark Web, and Deep Web*
 
 - [[Click Here]]() **
 
