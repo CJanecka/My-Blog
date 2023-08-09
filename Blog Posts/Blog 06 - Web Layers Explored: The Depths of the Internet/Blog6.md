@@ -63,16 +63,16 @@ As our journey comes to a close, one overarching theme emerges, the internet is 
 
 - [[Click Here]](https://www.cisecurity.org/insights/spotlight/cybersecurity-spotlight-the-surface-web-dark-web-and-deep-web) *Center for Internet Security (CIS): The Surface Web, Dark Web, and Deep Web*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.freecodecamp.org/news/what-is-web3/) *freeCodeCamp: What is Web3? The Decentralized Internet of the Future Explained (2021)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://medium.com/nerd-for-tech/mysterious-side-of-the-internet-5d2a02e103b7) *Mysterious Side of the Internet by Jaydev Joshi (2021)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.youtube.com/watch?v=8JGjnq5NySg) *I Explored EVERY Level of The Dark Web by Crypto NWO (2020)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://en.wikipedia.org/wiki/Internet) *Wikipedia: Internet*
 
-- [[Click Here]]() **
+- [[Click Here]](https://en.wikipedia.org/wiki/Internet) *Mozilla MDN Web Docs: Who the web works*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch13.pdf) *Cambridge University Press: The Structure of the Web (2010)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.cs.cornell.edu/home/kleinber/networks-book/) *Networks, Crowds, and Markets: Reasoning About a Highly Connected World by David Easley and Jon Kleinberg*
