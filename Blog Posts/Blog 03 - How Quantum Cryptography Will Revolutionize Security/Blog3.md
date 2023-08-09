@@ -57,4 +57,24 @@ By taking these practical steps, businesses can build robust quantum-resistant d
 
 Quantum cryptography is not just a technological marvel but a necessity for our data-driven society to survive and thrive securely. Embracing this quantum leap in cybersecurity can shape the future of cyber defense, ensuring that our digital world remains protected against quantum threats. So, as we march towards this exciting horizon, let us embrace the potential of quantum cryptography and pave the way for a safer and more resilient cyber landscape. The revolution is here; are you ready to defend your data with the power of quantum?
 
-##### Resources:
+#### Resources:
+
+- [[Click Here]](https://arxiv.org/pdf/0802.4155.pdf) *arXiv: The Security of Practical Quantum Key Distribution (2009)*
+
+- [[Click Here]](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography) *NIST CRSC: Post-Quantum Cryptography (2017)*
+
+- [[Click Here]](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf) *NIST: Recommendation for Key Management (2020)*
+
+- [[Click Here]](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms) *NIST: The First Four Quantum-Resistant Cryptographic Algorithms (2022)*
+
+- [[Click Here]](https://www.iacr.org/) *International Association for Cryptologic Research (IACR)*
+
+- [[Click Here]](https://cs.stanford.edu/people/adityaj/QuantumCryptography.pdf) *Stanford Computer Science: Quantum Cryptology*
+
+- [[Click Here]](https://www.forbes.com/sites/forbestechcouncil/2023/07/25/crypto-visibility-is-the-first-step-toward-quantum-safe-cybersecurity/?sh=47d937a57532) *Crypto Visibility Is The First Step Toward Quantum-Safe Cybersecurity (2023)*
+
+- [[Click Here]](https://www.ibm.com/topics/quantum-computing) *International Business Machines (IBM): What is quantum computing?*
+
+- [[Click Here]](https://hbr.org/2021/07/quantum-computing-is-coming-what-can-it-do) **
+
+- [[Click Here]]() *Harvard Business Review (HBR): Quantum Computing Is Coming. What Can It Do? (2021)*
