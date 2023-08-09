@@ -37,9 +37,9 @@ The NIST CSF consists of five core functions, each crucial to establishing a rob
 - ***c) Detect:*** Organizations must possess the capability to quickly identify and respond to cybersecurity incidents. The "Detect" function emphasizes continuous monitoring and anomaly detection to minimize the
   damage caused by cyberattacks.
 
-### Tailoring the NIST CSF
-
 - ***d) Respond:*** In the event of a cyber incident, timely and efficient response is critical. The "Respond" function outlines the necessary steps to mitigate the impact of breaches, recover lost data, and restore
   normal operations.
 
 - ***e) Recover:*** The final function, "Recover," addresses the process of restoring systems and services after a cybersecurity event. This includes conducting post-incident reviews, learning from the experience, and fortifying defenses for the future.
+
+### Tailoring the NIST CSF
