@@ -45,4 +45,4 @@ Moreover, as we acknowledge our cognitive biases and understand the psychologica
 So, are humans genuinely the weakest link in security? I am convinced that, united, we can surpass any perceived weaknesses and become a powerful alliance that stands strong against the ever-evolving cyber threats. Let us 
 remember that our potential to protect the digital realm is vast, and together, we hold the key to a safer and more secure cyber landscape.
 
-#### Reference
+#### Resources
