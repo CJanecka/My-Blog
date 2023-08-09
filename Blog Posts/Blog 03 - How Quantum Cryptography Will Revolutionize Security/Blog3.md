@@ -75,6 +75,6 @@ Quantum cryptography is not just a technological marvel but a necessity for our 
 
 - [[Click Here]](https://www.ibm.com/topics/quantum-computing) *International Business Machines (IBM): What is quantum computing?*
 
-- [[Click Here]](https://hbr.org/2021/07/quantum-computing-is-coming-what-can-it-do) **
+- [[Click Here]](https://hbr.org/2021/07/quantum-computing-is-coming-what-can-it-do) *Harvard Business Review (HBR): Quantum Computing Is Coming. What Can It Do? (2021)*
 
-- [[Click Here]]() *Harvard Business Review (HBR): Quantum Computing Is Coming. What Can It Do? (2021)*
+- [[Click Here]](https://www.nasa.gov/ames/quantum-computing) *National Aeronautics and Space Administration (NASA): What is Quantum Computing? (2022)*
