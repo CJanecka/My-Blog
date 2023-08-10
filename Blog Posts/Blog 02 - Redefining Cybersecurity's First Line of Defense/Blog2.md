@@ -1,6 +1,6 @@
 # Redefining Cybersecurity's First Line of Defense
 #### Human Firewall, Vulnerabilities, Social Engineering, Awareness, Culture
-###### July 31, 2023
+###### *July 31, 2023*
 
 ![CSBlog2](https://github.com/CJanecka/My-Blog/assets/131223318/aac87ad7-e7c0-41e2-b3ae-9a2fa5ff5a17)
 
