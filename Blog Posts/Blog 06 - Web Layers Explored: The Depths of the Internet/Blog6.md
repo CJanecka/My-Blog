@@ -1,5 +1,6 @@
 # Web Layers Explored: The Depths of the Internet
 #### Clearnet, Surface Web, Bergie Web, Deep Web, Darknet, Private Web, Marianas Web
+###### *August 1, 2023*
 
 ![CSBlog6](https://github.com/CJanecka/My-Blog/assets/131223318/d202deac-09e1-419a-ade1-0ebb66fc3683)
 
