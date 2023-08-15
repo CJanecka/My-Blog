@@ -93,6 +93,6 @@ As we continue to navigate the cyber universe, we must remember that the respons
 
 - [[Click Here]](https://security.googleblog.com/) *Google Security Blog (2023)*
 
-- [[Click Here]](https://www.ibm.com/security) *IBM (International Business Machines (IBM): Enterprise Security Solutions*
+- [[Click Here]](https://www.ibm.com/security) *IBM (International Business Machines): Enterprise Security Solutions*
 
 - [[Click Here]](https://www.cisa.gov/cybersecurity) *CISA (The Cybersecurity and Infrastructure Security Agency): Cybersecurity Best Practices*
