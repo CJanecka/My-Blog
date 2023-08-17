@@ -54,22 +54,22 @@ As the digital realm becomes increasingly intricate, the Red Team and Blue Team 
 
 #### Resources:
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.crowdstrike.com/cybersecurity-101/red-team-vs-blue-team/) *CrowdStrike: RED TEAM VS BLUE TEAM IN CYBERSECURITY (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://purplesec.us/red-team-vs-blue-team-cyber-security/) *PurpleSec: Red Team VS Blue Team: What’s The Difference?*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.coresecurity.com/blog/best-practices-red-teams-blue-teams-purple-teams) *Core Security: Best Practices for Red Teams, Blue Teams, Purple Teams*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.knowledgehut.com/blog/security/red-team-vs-blue-team) *KnowledgeHut: Red Team vs Blue Team in Cyber Security: Check Differences (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.threatintelligence.com/blog/red-team-vs-blue-team) *Threat Intelligence: How Red and Blue Teams Work Together in Cybersecurity (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.splunk.com/en_us/blog/learn/red-team-vs-blue-team.html) *Splunk: Red Teams vs. Blue Teams - What’s The Difference? (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7622.pdf) *National Institute of Standards and Technology (NISTIR 7622):  Notional Supply Chain Risk Management Practices for Federal Information Systems*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.coursera.org/articles/red-team-vs-blue-team) *Coursera: Red Team vs. Blue Team in Cybersecurity (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://danielmiessler.com/p/red-blue-purple-teams/) *Daniel Miessler: The Difference Between Red, Blue, and Purple Teams*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.emagined.com/red-team-and-blue-team) *Emagined Security: Red Team vs Blue Team Penetration Testing*
