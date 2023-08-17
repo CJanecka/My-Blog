@@ -1,5 +1,5 @@
 # The Thin Line: Ethical Considerations in the World of Hacking
-####
+#### Ethics, White Hat, Grey Hat, Black Hat, Intent vs Impact
 ###### August 17, 2023
 
 ![CSBlog12](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/1b2bbab7-4c29-4d9a-b777-fe99a3c6e92e)
