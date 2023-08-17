@@ -64,22 +64,22 @@ As we wrap this ethical exploration, it becomes clear that the hacking spectrum 
 
 #### Resources:
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.knowledgehut.com/blog/security/ethical-hacking-issues) *KnowledgeHut: Ethical Hacking Issues - Professional, Legal, Social & Cultural (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.eccu.edu/blog/cybersecurity/the-ethics-of-cybersecurity-debating-the-gray-areas/) *EC-Council University: The Ethics of Hacking - Navigating the Gray Area of Cybersecurity*
 
-- [[Click Here]]() **
+- [[Click Here]](https://medium.com/@seointernbluepin/the-ethical-considerations-of-hacking-and-the-impact-on-society-dcef1cc7cd8) *Medium: The Ethical Considerations of Hacking and the Impact on Society*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.covertswarm.com/post/what-are-the-challenges-of-ethical-hacking) *CovertSwarm: The Challenges of ethical hacking*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.techtarget.com/searchsecurity/feature/Is-ethical-hacking-legal-And-more-ethical-hacking-advice) *TechTarget: Is ethical hacking legal? And more ethical hacking advice (2022)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://link.springer.com/chapter/10.1007/978-3-030-29053-5_9) *Springer: The Ethics of Cybersecurity (Chapter 9)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.sciencedirect.com/science/article/pii/S2515856220300213) *ScienceDirect: Issues of Implied Trust in Ethical Hacking*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.comptia.org/content/articles/what-is-ethical-hacking) *CompTIA: What Is Ethical Hacking?*
 
-- [[Click Here]]() **
+- [[Click Here]](https://intellipaat.com/blog/what-is-ethical-hacking/) *Intellipaat: Ethical Hacking - Everything You Need To Know in 2023*
 
-- [[Click Here]]() **
+- [[Click Here]](https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-022-00872-y) *BMC Medical Ethics: It takes a pirate to know one - ethical hackers for healthcare cybersecurity (2022)*
