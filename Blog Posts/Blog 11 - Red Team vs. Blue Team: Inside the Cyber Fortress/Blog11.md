@@ -66,7 +66,7 @@ As the digital realm becomes increasingly intricate, the Red Team and Blue Team 
 
 - [[Click Here]](https://www.splunk.com/en_us/blog/learn/red-team-vs-blue-team.html) *Splunk: Red Teams vs. Blue Teams - What’s The Difference? (2023)*
 
-- [[Click Here]](https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7622.pdf) *National Institute of Standards and Technology (NISTIR 7622):  Notional Supply Chain Risk Management Practices for Federal Information Systems*
+- [[Click Here]](https://nvlpubs.nist.gov/nistpubs/ir/2012/NIST.IR.7622.pdf) *NIST (NISTIR 7622):  Notional Supply Chain Risk Management Practices for Federal Information Systems*
 
 - [[Click Here]](https://www.coursera.org/articles/red-team-vs-blue-team) *Coursera: Red Team vs. Blue Team in Cybersecurity (2023)*
 
