@@ -68,3 +68,5 @@ Cyber Threats in Cloud Computing Environment*
 - [[Click Here]](https://www.eccouncil.org/cybersecurity-exchange/interview/regulations-for-artificial-intelligence-in-cybersecurity/) *EC-Council: Expert Insights - AI in Cybersecurity (2023)*
 
 - [[Click Here]](https://hbr.org/2017/05/ai-is-the-future-of-cybersecurity-for-better-and-for-worse) *Harvard Business Review (HBR): AI Is the Future of Cybersecurity, for Better and for Worse (2017)*
+
+- [[Click Here]](https://www.fortinet.com/resources/cyberglossary/artificial-intelligence-in-cybersecurity) *Fortinet: Artificial Intelligence (AI) in Cybersecurity*
