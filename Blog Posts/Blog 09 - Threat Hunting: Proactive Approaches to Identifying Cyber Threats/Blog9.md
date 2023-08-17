@@ -46,22 +46,23 @@ Threat Hunting is a vital component of a proactive cybersecurity strategy. By ac
 
 #### Resources:
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.crowdstrike.com/cybersecurity-101/threat-hunting/) *CrowdStrike: WHAT IS CYBER THREAT HUNTING? (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.ibm.com/topics/threat-hunting) *International Business Machines (IBM): What is threat hunting?*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.microfocus.com/en-us/what-is/cyber-threat-hunting) *MicroFocus: What is Cyber Threat Hunting?*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.exabeam.com/explainers/information-security/threat-hunting-tips-and-tools/) *exabeam: Threat Hunting - Tips and Tools*
 
-- [[Click Here]]() **
+- [[Click Here]](https://heimdalsecurity.com/blog/proactive-threat-hunting/) *Heimdal Security: Stay Ahead of Cyberthreats with Proactive Threat Hunting (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.kroll.com/en/insights/publications/cyber/what-is-cyber-threat-hunting) *Kroll: What is Cyber Threat Hunting? Approaches, Tools and Intel Explained (2022)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.cybereason.com/fundamentals/what-is-threat-hunting) *CyberReason: WHAT IS THREAT HUNTING?*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.splunk.com/en_us/blog/learn/threat-hunting.html) *Splunk: The Threat Hunting Guide - Everything To Know About Hunting Cyber Threats (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.knowledgehut.com/blog/security/cyber-threat-hunting) *KnowledgeHut: Cyber Threat Hunting - Types, Methodologies, Best Practices (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]]() *NIST Special Publication (800-172A): Assessing Enhanced Security Requirements
+for Controlled Unclassified Information*
