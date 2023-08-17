@@ -64,5 +64,5 @@ Threat Hunting is a vital component of a proactive cybersecurity strategy. By ac
 
 - [[Click Here]](https://www.knowledgehut.com/blog/security/cyber-threat-hunting) *KnowledgeHut: Cyber Threat Hunting - Types, Methodologies, Best Practices (2023)*
 
-- [[Click Here]]() *NIST Special Publication (800-172A): Assessing Enhanced Security Requirements
+- [[Click Here]](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172A.pdf) *NIST Special Publication (800-172A): Assessing Enhanced Security Requirements
 for Controlled Unclassified Information*
