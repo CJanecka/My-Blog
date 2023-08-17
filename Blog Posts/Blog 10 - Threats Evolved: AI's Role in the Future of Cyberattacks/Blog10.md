@@ -1,6 +1,6 @@
 # Threats Evolved: AI's Role in the Future of Cyberattacks
-####
-###### August 15, 2023
+#### Ethical Implications, AI, Social Engineering, Cybercrime, DeepFake
+###### August 16, 2023
 
 ![CSBlog10](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/6b1c06e2-8bb4-4722-9684-cba3d7196df3)
 
@@ -48,22 +48,23 @@ The rise of AI-powered cyberattacks is a clear indication that the cyber threat 
 
 #### Resources:
 
-- [[Click Here]]() **
+- [[Click Here]](https://ipvnetwork.com/ai-cyber-attacks-the-growing-threat-to-cybersecurity-and-countermeasures/#:~:text=Weaponizing%20Machine%2Dlearning&text=AI%20aids%20defenders%20in%20identifying,machine%20learning%20to%20their%20advantage.) *IPV Network: AI Cyber-Attacks - The Growing Threat to Cybersecurity and Countermeasures (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://nextitsecurity.com/how-will-ai-impact-cybersecurity-in-the-near-future/) *Next IT Security: How Will AI Impact CyberSecurity in The Near Future*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.analyticsvidhya.com/blog/2023/02/future-of-ai-and-machine-learning-in-cybersecurity/) *Analytics Vidhya: AI in Cyber Security - Advantages, Applications and Use Cases*
 
-- [[Click Here]]() **
+- [[Click Here]](https://pdf.sciencedirectassets.com/272144/1-s2.0-S1566253523X00050/1-s2.0-S1566253523001136/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDLEE6mFD91ag%2BwplnrVIEQPV3Hj4O9DGsuiS42BD4CxwIgOUMCBLzWbBFIqiwPr%2Bxp%2Fobwmr%2BaIFWW7FRnKNNm2NsqswUIaxAFGgwwNTkwMDM1NDY4NjUiDKFxZe1oSayitDZhdCqQBd1MeQV4ikVlGyxt1k3W1HGxsfEuOT3KFLyiG8ZTZTwy9S4XVkJJKTlJj23JcrzRtP2Zp%2FBVmtVnio4Rnbx6%2FurP0NRZCLW9wJjh8zNSRvwZ6r5edw5qfCAIINrcUcDdP3rrIbLSDiAOnAox1muuaJ6qRZuzE%2BmgObBk1FCc%2FCQV0xVqyreyf1pVWvG1E5jc8poKkXMMuL7%2B8kGBzTY52mndHNQda5C%2B1Yuv5FyWdkaJOzMnDFTh%2F%2FvpC3TLpV1Q2%2BAfmLIyFg3Vqjz6yAbvJZhXXGSEq4j9Ts9MYnwmwk0ClBKKdHFsAxfF638Kp%2BcMEKS%2BikJEtXQr%2F6H8Pzql2fOzJeCeIe%2BXQOuL5jloz3pmNuQ%2BlttvTkNg4xrBn9lMxpgIEfyF%2FNSJmtZFruc3xAAPV3RdmZTScbQZAteHUjnqjJl0GCvEroSIWNTQxpGhS%2FcSTkzp88%2FPVRpxir%2Bp9BMandLQQ3b0RMpk8%2FuAeiI2JOHPtIgvHIpOlp7%2FJUBBjc0rcsW35Rs%2B2xhjvXn31rUldf5Yov462hwdePxOKbjOu9VBw3gR56tKA2i3el7bTzU6EBhp3aXgnxXZeL8goLWZK6XBVej%2Bukf4uN4Jr2A2A82pmGgZLKK5Dttv%2BMHQpgmZB1%2Fx1%2BaREF0FWOZht14GxmZPU52YJ0x9Dhw0W9idxm9dmZE%2FVrFzgSFKarlOmlFnhM33Aq%2FTO%2F2AOvsZ0P1QxBkbipB6E0hBA4m%2BNfdnMRk7NmU8QggeMBmT1XnrdkGQepRQ1dhtT7AuxpmMZc4BBWHQ1sBFvONZb0xqA97Nto9%2Fk27SM7LIY8eSGFoxSiKjqYuEOc4oosvNNj5FkR3X2bbFJBUWUjEJkihGNzq2MOPu9aYGOrEB%2Ftqt%2F8jojlMUKrRqxzDDpSm6B59UDg8b6qllA7bd%2FRW9Xz%2BBHHqGsGMicqDwbB1qsDu6uosgKB1LYasYmHB5zTle9rbIX%2F7pFNgHAEyJ16xi%2BjQjGMFEQXNtIAy7Tkxr6GVET0gdb6cK9sEgP3mPNMi23gcc%2FzNjvzexjnlFr2uaDWKiQFDpEm7Gt1jcwgXUj%2BKqAUwlmQ7AZB073E6g8PcwHKo%2Bz%2BlKSLDoosjSkcuq&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230817T020401Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5LPATRF7%2F20230817%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0dda26e40e827922596d07fe08979dc37799104f5de35398fb7539a38152b108&hash=f6b568db7a936ab86d2cf93e29458792ecb16780328b92b50d8f2b5b755d8e9c&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1566253523001136&tid=spdf-f89272c6-5962-4d04-aea6-88836ce20993&sid=05f9552575178748d35ab27521327fd28f04gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f1559045500545f56035f&rr=7f7e580e08f2145f&cc=us) *ScienceDirect: Artificial intelligence for cybersecurity - Literature review and future research directions (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.nist.gov/system/files/documents/2020/07/13/Temechu-IoT%20Security%20_%20Final.pdf) *National Institute of Standards and Technology (NIST): IOT Security and the Role of AI/ML to Combat Emerging
+Cyber Threats in Cloud Computing Environment*
 
-- [[Click Here]]() **
+- [[Click Here]](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.ipd.pdf) *National Institute of Standards and Technology (NIST): Adversarial Machine Learning - A Taxonomy and Terminology of Attacks and Mitigations*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.ibm.com/security/artificial-intelligence#:~:text=AI%20is%20changing%20the%20game,augment%20under%2Dresourced%20security%20operations.&text=As%20cyberattacks%20grow%20in%20volume,analysts%20stay%20ahead%20of%20threats.) *International Business Machines (IBM): Artificial intelligence (AI) for cybersecurity*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.splunk.com/en_us/data-insider/ai-and-machine-learning.html) *Splunk: What Is Artificial Intelligence and Machine Learning? (2022)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.eccouncil.org/cybersecurity-exchange/interview/regulations-for-artificial-intelligence-in-cybersecurity/) *EC-Council: Expert Insights - AI in Cybersecurity (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://hbr.org/2017/05/ai-is-the-future-of-cybersecurity-for-better-and-for-worse) *Harvard Business Review (HBR): AI Is the Future of Cybersecurity, for Better and for Worse (2017)*
