@@ -58,22 +58,24 @@ In an era where cybercriminals exploit both technical vulnerabilities and psycho
 
 #### Resources:
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-040a) *CISA: 2021 Trends Show Increased Globalized Threat of Ransomware (2022)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.forbes.com/sites/forbesbusinesscouncil/2020/06/05/the-future-of-ransomware-2-0-attacks/?sh=66134fa44dc9) *Forbes: The Future Of Ransomware 2.0 Attacks (2020)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.infosecurity-magazine.com/magazine-features/double-trouble-ransomware-data/) *Infosecurity Magazine: Double Trouble - How Ransomware 2.0 Puts Your Data Under Threat (2021)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.redseal.net/files/Brochures/ransomware2.0-what-your-business-needs-to-avoid-compromise-in-the-cloud.pdf) *RedSeal: Ransomware 2.0 - What your business needs to avoid compromise in the cloud*
 
-- [[Click Here]]() **
+- [[Click Here]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4319014) *Social Science Research Network (SSRN): Ransomware 2.0 - An Emerging Threat to National Security (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.microsoft.com/en-us/security/blog/threat-intelligence/ransomware/?sort-by=newest-oldest&date=any) *Microsoft Security Blog - Ransomware*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.isc2.org/Insights/2021/07/Ransomware-Cybercrime-and-Cloud-Security) *ISC2: Ransomware Cybercrime and Cloud Security (2021)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://unit42.paloaltonetworks.com/lockbit-2-ransomware/) *Unit 42: LockBit 2.0 - How This RaaS Operates and How to Protect Against It (2022)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.trendmicro.com/vinfo/us/security/definition/ransomware) *Trend Micro: Ransomware*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.fortinet.com/blog/threat-research/ransomware-roundup-rancoz) *Fortinet: Ransomware Roundup - Rancoz (2023)*
+
+- [[Click Here]](https://www.kroll.com/en/insights/publications/cyber/threat-intelligence-reports/q2-2022-threat-landscape-ransomware-healthcare-hit) *Kroll: Q2 2022 Threat Landscape - Ransomware Returns, Healthcare Hit (2022)*
