@@ -1,5 +1,5 @@
 # The Hydra Strikes: The Diverse Threats of Ransomware 2.0
-#### 
+#### Extortion, Collaboration, Incidence Response, Threat Intelligence, Endpoint Protection
 ###### August 17, 2023
 
 ![CSBlog13](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/513046fc-4737-4cb1-bc4a-10d53da1255c)
