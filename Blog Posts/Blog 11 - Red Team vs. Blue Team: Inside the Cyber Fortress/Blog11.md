@@ -73,3 +73,5 @@ As the digital realm becomes increasingly intricate, the Red Team and Blue Team 
 - [[Click Here]](https://danielmiessler.com/p/red-blue-purple-teams/) *Daniel Miessler: The Difference Between Red, Blue, and Purple Teams*
 
 - [[Click Here]](https://www.emagined.com/red-team-and-blue-team) *Emagined Security: Red Team vs Blue Team Penetration Testing*
+
+- [[Click Here](https://darknetdiaries.com/episode/36/) *Darknet Diaries: Episode 36 - Jeremy from Marketing (2019)*
