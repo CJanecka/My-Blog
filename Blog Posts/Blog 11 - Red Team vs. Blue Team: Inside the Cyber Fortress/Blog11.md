@@ -1,6 +1,6 @@
 # Red Team vs. Blue Team: Inside the Cyber Fortress
-#### August 17, 2023
-###### Cybersecurity, Penetration Testing, Incident Response, Collaboration, Risk Mitigation
+#### Cybersecurity, Penetration Testing, Incident Response, Collaboration, Risk Mitigation
+###### August 17, 2023
 
 ![CSBlog11v2](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/ba706074-c109-4595-bddf-3b414d29c2d9)
 
