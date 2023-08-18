@@ -68,22 +68,22 @@ CSF 2.0 is more than a framework; it's a dynamic force that beckons organization
 
 #### Resources:
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.nist.gov/news-events/news/2023/08/nist-drafts-major-update-its-widely-used-cybersecurity-framework) *NIST: Drafts Major Update to Its Widely Used Cybersecurity Framework (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.nist.gov/system/files/documents/2022/10/03/NIST_CSF_update_Fact_Sheet.pdf) *NIST: Cybersecurity Framework 2.0 (2022)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://csrc.nist.gov/pubs/ir/8477/ipd) *NIST (IR 8477):  Discussion Draft of the Implementation Examples (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.engage.hoganlovells.com/knowledgeservices/news/nist-prepares-for-cybersecurity-framework-20-with-increased-focus-on-governance-and-supply-chain) *Hogan Lovells Engage: NIST prepares for Cybersecurity Framework 2.0, with increased focus on governance and supply chain (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://medium.com/databulls/new-nist-cybersecurity-framework-2-0-draft-publication-what-are-possible-changes-303035162e07) *Medium: New NIST Cybersecurity Framework 2.0 – Draft Publication – What are possible changes? (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://blog.isc2.org/isc2_blog/2023/02/analysis-could-nists-cybersecurity-framework-20-be-the-beginning-of-international-best-practice.html) *ISC2: ANALYSIS - COULD NIST’S CYBERSECURITY FRAMEWORK 2.0 BE THE BEGINNING OF INTERNATIONAL BEST PRACTICE? (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://blog.riskrecon.com/the-nist-cybersecurity-framework-2.0-what-it-is-and-why-its-changing) *RiskRecon: The NIST Cybersecurity Framework 2.0: What It Is and Why It's Changing (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://blogs.cisco.com/government/hear-the-latest-on-nists-cybersecurity-framework-2-0-and-beyond) *Cisco: Hear the Latest on NIST’s Cybersecurity Framework 2.0 (and Beyond) (2023)*
 
-- [[Click Here]]() **
+- [[Click Here]](https://www.infosectrain.com/blog/nist-cybersecurity-framework/) *Infosec Train: NIST Cybersecurity Framework 2.0 (2023)*
 
 - [[Click Here]]() **
