@@ -6,7 +6,7 @@
 
 In the age of boundless connectivity, the internet has become an indispensable facet of modern life, woven intricately into the fabric of our daily routines. From conducting research and connecting with loved ones to shopping for the latest trends, the World Wide Web offers a vast and diverse landscape of possibilities at our fingertips. However, beyond the familiar realms of search engines and social media lies an enigmatic world, shrouded in mystery and myth, the hidden layers of the internet.
 
-In this blog, we embark on an exploratory journey to demystify these hidden realms, uncovering the secrets of Clearnet, Deep Web, Darknet, and more. As we navigate through this digital labyrinth, we will unravel the complexities and shed light on the lesser-known corners of the web, gaining a deeper understanding of the internet's multifaceted nature. So, fasten your virtual seatbelts and prepare to embark on a thrilling quest through the internet's hidden depths, where knowledge, privacy, and intrigue converge.
+We will embark on an exploratory journey to demystify these hidden realms, uncovering the secrets of Clearnet, Deep Web, Darknet, and more. As we navigate through this digital labyrinth, we will unravel the complexities and shed light on the lesser-known corners of the web, gaining a deeper understanding of the internet's multifaceted nature. So, fasten your virtual seatbelts and prepare to embark on a thrilling quest through the internet's hidden depths, where knowledge, privacy, and intrigue converge.
 
 ### Clearnet
 
