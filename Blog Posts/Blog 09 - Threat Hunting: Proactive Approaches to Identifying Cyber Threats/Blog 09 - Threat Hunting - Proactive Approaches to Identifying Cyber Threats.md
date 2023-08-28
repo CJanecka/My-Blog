@@ -14,7 +14,7 @@ Central to the essence of Threat Hunting is its departure from the realm of algo
 
 ### Implementing a Threat Hunting Program
 
-To embark on a journey of proactive cyber defense through Threat Hunting, organizations must meticulously architect and execute a comprehensive program. This entails a strategic interplay of key elements that collectively amplify the organization's capacity to anticipate and neutralize potential threats.
+To maintain a proactive cyber defense through Threat Hunting, organizations must meticulously architect and execute a comprehensive program. This entails a strategic interplay of key elements that collectively amplify the organization's capacity to anticipate and neutralize potential threats.
 
 Begin with the foundational step of defining clear and tangible objectives for your Threat Hunting program. This involves identifying the crown jewels of your organization: the critical assets, sensitive data repositories, and pivotal systems that demand vigilant protection. By pinpointing these focal points, you ensure that your Threat Hunting efforts are aligned with safeguarding the organization's most valuable assets. Simultaneously, delineate the scope of your hunting endeavors – specifying the areas within the network and systems that will undergo rigorous investigation. This delineation not only imparts clarity to the hunting process but also acts as a guiding compass for your cybersecurity team, channeling their efforts into the most crucial domains.
 
