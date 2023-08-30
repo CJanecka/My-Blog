@@ -1,5 +1,5 @@
 # Architects of Assurance: Building Trust Through Cyber Compliance
-####
+#### HIPAA, PCI DSS, GDPR, Data Integrity, Strategy
 ###### August 30, 2023
 
 ![CSBlog16](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/25057c91-81b7-43d6-97a6-051bfc66160c)
