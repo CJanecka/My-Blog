@@ -1,5 +1,5 @@
 # Automation in Penetration Testing: Pros, Cons, and Best Practices
-#### <insert keywords here>
+#### Cybersecurity, Manual vs Auto, Strategy, Culture, Hybrid Approach
 ###### September 5, 2023
 
 ![CSBlog17](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/2219bd65-99ab-4366-a6d4-0a7a62cf2720)
