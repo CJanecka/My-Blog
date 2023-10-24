@@ -2,7 +2,7 @@
 #### Information, Analysis, Cybersecurity, Culture, Vulnerabilities
 ###### August 15, 2023
 
-![CSBlog9](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/17ce7d88-f764-4bdd-83c2-17075536ef5f)
+![CSBlog9](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/9a64fe20-c200-4320-ba27-e0eccaa94c43)
 
 Cyber threats are constantly becoming more sophisticated and elusive, especially, in todays technologically driven society. Reactive cybersecurity measures alone are no longer sufficient to safeguard sensitive data and critical systems. Organizations need to adopt proactive approaches, such as Threat Hunting, to stay ahead of cyber adversaries and identify potential threats before they cause irreparable damage. In this blog post, we will explore the concept of Threat Hunting and discuss key strategies for implementing a proactive cybersecurity stance.
 
