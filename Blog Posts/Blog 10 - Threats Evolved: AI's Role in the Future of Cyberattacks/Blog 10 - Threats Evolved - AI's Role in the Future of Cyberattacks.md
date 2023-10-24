@@ -2,7 +2,7 @@
 #### Ethical Implications, AI, Social Engineering, Cybercrime, DeepFake
 ###### August 16, 2023
 
-![CSBlog10](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/6b1c06e2-8bb4-4722-9684-cba3d7196df3)
+![CSBlog10](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/b6f54b10-2ba4-4d88-b7a5-d7881577c998)
 
 Emerging threats continue to challenge businesses and individuals alike, and the ever-changing field of cybersecurity is no exception. Among these formidable adversaries, one has risen to prominence: AI-powered cyberattacks. Artificial Intelligence, once hailed as a breakthrough for enhancing cybersecurity defenses, is now being harnessed by cybercriminals to launch sophisticated and stealthy attacks. In this blog post, we will explore the rise of AI-powered cyberattacks and the potential consequences they pose for the digital world.
 
