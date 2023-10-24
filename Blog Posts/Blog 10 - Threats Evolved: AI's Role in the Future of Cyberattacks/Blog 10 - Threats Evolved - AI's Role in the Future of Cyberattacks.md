@@ -1,5 +1,5 @@
 # Threats Evolved: AI's Role in the Future of Cyberattacks
-#### Ethical Implications, AI, Social Engineering, Cybercrime, DeepFake
+#### Ethical Implications, AI, Social Engineering, Cybercrime, Deepfake
 ###### August 16, 2023
 
 ![CSBlog10](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/b6f54b10-2ba4-4d88-b7a5-d7881577c998)
