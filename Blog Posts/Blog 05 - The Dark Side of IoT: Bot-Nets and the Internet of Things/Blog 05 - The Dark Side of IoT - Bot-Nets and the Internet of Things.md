@@ -2,7 +2,7 @@
 #### IoT Security, Distributed Denial of Service (DDoS), Cybersecurity Risks
 ###### *August 1, 2023*
 
-![CSBlog5](https://github.com/CJanecka/My-Blog/assets/131223318/6e70e97d-7653-46e0-b488-14da7e30eafb)
+![CSBlog5](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/b74dcdad-9bb3-4525-8900-9c5f2b398c83)
 
 Internet of Things (IoT) has emerged as a revolutionary concept, interconnecting smart devices to simplify our lives. From smart homes to industrial automation, IoT has permeated various aspects of our daily routines. 
 However, with this great technological leap comes a darker side that often goes unnoticed, the rise of bot-nets fueled by insecure IoT devices. In this blog, we will delve into the alarming issue of bot-nets in the 
