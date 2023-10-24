@@ -2,7 +2,7 @@
 #### Extortion, Collaboration, Incidence Response, Threat Intelligence, Endpoint Protection
 ###### August 17, 2023
 
-![CSBlog13](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/513046fc-4737-4cb1-bc4a-10d53da1255c)
+![CSBlog13](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/b6e3766e-ad5c-462b-8942-d1bfe8754d39)
 
 In recent years, the threat landscape in the cybersecurity domain has evolved exponentially, and one of the most alarming trends has been the rise of Ransomware 2.0. Cybercriminals are constantly refining their attack techniques, making ransomware attacks more sophisticated, stealthy, and destructive than ever before. In this blog post, we will delve into the characteristics of Ransomware 2.0 and explore the strategies and best practices organizations can adopt to defend against this new wave of attacks.
 
