@@ -2,7 +2,7 @@
 #### Cybersecurity, Penetration Testing, Incident Response, Collaboration, Risk Mitigation
 ###### August 17, 2023
 
-![CSBlog11v2](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/ba706074-c109-4595-bddf-3b414d29c2d9)
+![CSBlog11](https://github.com/CJanecka/Wisdom_for_the_Digital_World-My_Blog/assets/131223318/7a0ea8f1-9123-4143-803b-f70c90b7cf5f)
 
 In the realm of cybersecurity, the dynamic and ever-evolving landscape of threats necessitates a proactive approach to safeguarding digital assets. This is where the roles of Red Team and Blue Team come into play. Red Team and Blue Team represent two sides of the same coin—Penetration Testing and Incident Response. In this blog post, we will explore the crucial aspects of both teams, their objectives, methodologies, and how they collaborate to enhance an organization's overall security posture.
 
